@@ -104,12 +104,14 @@ Curated list of blockchain and general cryptocurrency resources
 ### Ethereum and Smart Contracts
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
 * [Blockchain contracts and CyberLaw](https://www.amazon.com/BLOCKCHAIN-CONTRACTS-CYBERLAW-PAVAN-DUGGAL-ebook/dp/B019S2I1CE/ref=sr_1_1?ie=UTF8&qid=1476985977&sr=8-1&keywords=Blockchain+contracts+and+CyberLaw) - Pavan Duggal
+* [EatTheBlocks](https://eattheblocks.com)
 * [Ethereum Builder's Guide](https://www.gitbook.com/book/ethereumbuilders/guide/details) - Ethereum
 * [Ethereum Frontier Guide](https://ethereum.gitbooks.io/frontier-guide/) - Ethereum
 * [Ethereum: A look into the world of Ethereum and everything you need to know about it's trade and investment](https://www.amazon.com/Ethereum-everything-investment-Blockchain-Cryptocurrency-ebook/dp/B01IC6NT8S/ref=sr_1_1?ie=UTF8&qid=1476984793&sr=8-1&keywords=Ethereum%3A+A+look+into+the+world+of+Ethereum+and+everything+you+need+to+know+about+it%27s+trade+and+investment%21) - Ben Abner
 * [Ethereum: The Complete Beginners Guide -Blockchain, Cryptocurrencies, Ethereum](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Ethereum%3A+The+Complete+Beginners+Guide)  - Ray Hammond
 * [FinTech: Financial Technology and Modern Finance in the 21st Century](https://www.amazon.com/FinTech-Financial-Technology-Blockchain-Contracts-ebook/dp/B01MEFL03W/ref=sr_1_1?ie=UTF8&qid=1476985691&sr=8-1&keywords=FinTech%3A+Financial+Technology+and+Modern+Finance+in+the+21st+Century) - Jeff Reed
 * [Great Chain of Numbers: A Guide to Smart Contracts, Smart Property and Trustless Asset Management](https://www.amazon.com/Great-Chain-Numbers-Contracts-Management-ebook/dp/B00IRUBMXO/ref=sr_1_1?ie=UTF8&qid=1476985949&sr=8-1&keywords=Great+Chain+of+Numbers%3A+A+Guide+to+Smart+Contracts%2C+Smart+Property+and+Trustless+Asset+Management) - Tim Swanson
+* [Learn Ethereum Dapps: Build a ToDo List with a Solidity smart contract](https://eattheblocks.com/learn-to-build-an-ethereum-dapp-step-by-step-ebook-tutorial-for-beginners/)
 * [Investing In Ethereum: The Complete Guide To Smart Investing - Learn How To Easily Profit From Cryptocurrencies!](https://www.amazon.com/Investing-Ethereum-Complete-Easily-Cryptocurrencies/dp/1537677209/ref=sr_1_fkmr0_1?ie=UTF8&qid=1476985775&sr=8-1-fkmr0&keywords=Ethereum%3A+The+Complete+Beginners+Guide) - 	Thomas Sanders
 * [Investing in Ethereum: The Ultimate Guide to Learning and Profiting from--Cryptocurrencies](https://www.amazon.com/Investing-Ethereum-Learning-Profiting-Cryptocurrencies/dp/153530281X/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=153530281X&pd_rd_r=EH8VPZEJ5BMM540BQEZW&pd_rd_w=CywQ3&pd_rd_wg=p4U9s&psc=1&refRID=EH8VPZEJ5BMM540BQEZW) - Oscar Flynt
 * [Investing in Ethereum: Understanding Cryptocurrencies for the Smart Investor](https://www.amazon.com/Investing-Ethereum-Understanding-Cryptocurrencies-Investor-ebook/dp/B01DD6XVJE/ref=sr_1_1?ie=UTF8&qid=1476985905&sr=8-1&keywords=investing+in+Ethereum%3A+Understanding) - Michael K Nungesser
@@ -168,6 +170,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
 * [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
+* [EatTheBlocks](https://www.youtube.com/c/eattheblocks)
 * [Ethereum for Dummies - Dr. Gavin Wood](https://www.youtube.com/watch?v=U_LK0t_qaPo)
 * [Draper University](https://www.youtube.com/user/TimothyDraper/videos)
 * [EtherCasts](https://www.youtube.com/user/EtherCasts)
@@ -187,6 +190,8 @@ Curated list of blockchain and general cryptocurrency resources
 * [BitcoinLectures.tv](http://bitcoinlectures.tv)
 
 ### Courses
+* [EatTheBlocks Pro](https://pro.eattheblocks.com)
+* [Ethereum DApps In Motion: build a decentralized exchange with Solidity & Truffle](http://www.manning.com/?a_aid=eattheblocks)
 * [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
 * [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy
 * [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
