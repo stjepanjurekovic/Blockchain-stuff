@@ -190,8 +190,8 @@ Curated list of blockchain and general cryptocurrency resources
 * [BitcoinLectures.tv](http://bitcoinlectures.tv)
 
 ### Courses
-* [EatTheBlocks Pro](https://pro.eattheblocks.com)
-* [Ethereum DApps In Motion: build a decentralized exchange with Solidity & Truffle](http://www.manning.com/?a_aid=eattheblocks)
+* [EatTheBlocks Pro](http://pro.eattheblocks.com)
+* [Ethereum DApps In Motion: build a decentralized exchange with Solidity & Truffle](https://www.manning.com/livevideo/ethereum-dapps-in-motion?a_aid=eattheblocks)
 * [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
 * [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy
 * [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
