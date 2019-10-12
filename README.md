@@ -197,8 +197,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
 * [Blockchain for Finance Professionals](https://www.experfy.com/training/courses/blockchain-for-finance-professionals) - Experfy
 * [Blockchain Technology Fundamentals](https://www.experfy.com/training/courses/blockchain-technology-fundamentals) - Experfy
-
-
+* [Introduction to Digital Currencies](https://www.unic.ac.cy/blockchain/free-mooc/) - University of Nicosia
 
 
 ### Documentaries
