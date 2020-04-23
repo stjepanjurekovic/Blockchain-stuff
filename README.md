@@ -125,7 +125,7 @@ Curated list of blockchain and general cryptocurrency resources
 ### Infographics
 - [Bitcoin's History 2008-2014](https://i.imgur.com/kVF3kFu.png)
 - [How a Transaction Works](https://i.imgur.com/fZyX3Od.jpg)
-
+- [Crypto Table - A Periodic Table of Cryptocurrencies](https://jes.al/crypto-table/)
 
 ### Talks
 * [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30)
