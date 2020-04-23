@@ -252,6 +252,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Tradeblock](https://tradeblock.com/markets)
 * [Wallet Explorer](https://www.walletexplorer.com/)
 * [WebBtc](https://webbtc.com/)
+* [Exchangify](https://exchangify.io/)
 
 
 ### Assets
