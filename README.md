@@ -69,6 +69,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit#) - Chris Ellis
 
 ### Bitcoin
+* [Who is Bitcoin address owner, mentions on the Internet, forums, scam alerts, and other metadata.](https://allprivatekeys.com/whose-bitcoin-address.php) - Maksim Boyarov
 * [Anonymous Cryptocurrencies: The rise of bitcoin alternatives that offer true anonymity](https://www.amazon.com/Cryptocurrencies-bitcoin-alternatives-offer-anonymity/dp/1500682586/ref=pd_sim_14_24?_encoding=UTF8&pd_rd_i=1500682586&pd_rd_r=PMB5GABNHVFM2VHE3WBH&pd_rd_w=6yGsW&pd_rd_wg=yVxm8&psc=1&refRID=PMB5GABNHVFM2VHE3WBH) - Will Martin
 * [Bitcoin and Lightning Network on Raspberry Pi](https://www.amazon.com/Bitcoin-Lightning-Network-Raspberry-Pi/dp/1484255216) - Harris Brakmic
 * [Bit by Bit: How P2P Is Freeing the World](https://www.amazon.com/Bit-How-P2P-Freeing-World-ebook/dp/B00S085TRS/ref=sr_1_1?ie=UTF8&qid=1476985273&sr=8-1&keywords=Bit+by+Bit) - Jeffery Tucker
@@ -226,6 +227,7 @@ Curated list of blockchain and general cryptocurrency resources
 
 
 ### Explorers
+* [Apirone.com](https://apirone.com/btc/)
 * [Bitaps](https://bitaps.com/)
 * [Bitinfocharts](https://bitinfocharts.com/bitcoin/explorer/)
 * [Block Explorer](https://blockexplorer.com/)
